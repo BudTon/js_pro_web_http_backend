@@ -1,6 +1,6 @@
 const { uuid } = require('uuidv4');
 
-module.exports = class TicketStoreg {
+module.exports = class TicketStorege {
     #listTickets = []
 
     find() {
